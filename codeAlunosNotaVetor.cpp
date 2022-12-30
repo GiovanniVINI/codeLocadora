@@ -7,7 +7,7 @@ Calcule e mostre a média da sala, o nome do aluno com a maior e menor nota e os
 #include <stdlib.h>
 #include <conio.h>
 
-#define m 3 //Número de alunos
+#define m 80 //Número de alunos
 
 int main(){
 	int i, posMaiorNota = 0, posMenorNota = 0;
