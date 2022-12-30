@@ -1,4 +1,4 @@
-/*Uma turma de 50 alunos fez uma prova da disciplina de Algoritmo II. Esta prova 
+/* Exercício: Uma turma de 50 alunos fez uma prova da disciplina de Algoritmo II. Esta prova 
 foi de teste e teve 20 questões. Foram cadastrados os seguintes dados: nome do 
 aluno, respostas da prova (sabendo que as respostas poderiam ser a, b, c, d ou e)
 o gabarito da prova. O sistema leu os dados e calculou os acertos de cada 
